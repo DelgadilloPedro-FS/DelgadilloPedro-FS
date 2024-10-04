@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro
-- 👀 I’m interested in Software Engineering with a focus on DevOps
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m a Contract Software Engineering for Apple
+- 🌱 I’m currently learning Web Dev 
 
 <!---
 DelgadilloPedro-FS/DelgadilloPedro-FS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
